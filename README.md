@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandushke De Alwis</h1>
+<h1 align="center">Hello there, I'm Sandushke De Alwis</h1>
 <h3 align="center">An undergraduate following the Artificial Intelligence & Data Science degree programme at Informatics Institute of Technology which is affiliated with Robert Gordern University Aberdeen, UK</h3>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="400"/>
 
